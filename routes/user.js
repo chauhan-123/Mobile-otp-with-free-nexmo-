@@ -30,7 +30,6 @@ router.post("/registration", (req, res) => {
                 nexmo.message.sendSms(
                     from, to, text,
                     (err, responseData) => {
-                        console.log('iiiiiiiiiiiiiii')
 
                         if (err) {
                             console.log(err);
