@@ -16,7 +16,7 @@
     "morgan": "^1.9.1",
     "nexmo": "^2.5.1",
     "nodemon": "^1.19.4",
-    "otp-generator": "^1.1.0",
+    "otp-generator": "^3.0.0",
     "sendotp": "^1.2.9"
   }
 }
